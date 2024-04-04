@@ -1,0 +1,129 @@
+ul{
+    font-family: "Source Sans 3", sans-serif;
+            font-size: 20px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  color: rgb(0, 0, 0);
+  overflow: hidden;
+  top: 0;
+}
+ul li a{
+  text-decoration: none;
+  padding: 14px 16px;
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+ul li a.active{
+  background-color: white;
+}
+ul li a.act{
+  background-color:white;
+  float: right;
+}
+ul li{
+  float: left;
+  border-right: 1px solid #ffffff;
+}
+ul li:last-child{
+  border-right: none;
+  float: right;
+}
+/* mouse over link */
+ a:hover {
+  color: rgb(255, 17, 0);
+  background-color: rgb(255, 255, 255);
+}
+/* selected link */
+
+a:link {
+text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+
+ .div{
+   width: 500px;
+ }
+ /* mouse over link */
+ a:hover {
+    color: rgb(255, 74, 74);
+  }
+  
+/* selected link */
+  a:active {
+    color: rgb(0, 0, 0);
+  }
+  a:link {
+text-decoration: none;
+ }
+a:visited {
+    text-decoration: none;
+}
+.all {
+    width: 1300px;
+    margin: left;
+    padding: 5px;
+}
+.trangto {
+    float: left;
+    width: 50%;
+    padding: 5px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+.nd{
+    float: left;
+    width: 630px;
+    padding: 1px;
+    font-size: 20px;
+    font-family: "Source Sans 3", sans-serif; 
+}
+.anhto {
+  width: 630px;
+  border-radius: 1px;
+
+}
+.ndnho{
+    float: left;
+    padding: 1px;
+    border-radius: 1px;
+    width: 190px;
+    height: 130px;
+
+}
+.pass {
+    float: left;
+    padding: 1px;
+    border-radius: 1px;
+    width: 190px;
+    height: 130px;
+  }
+  .pass1 {
+    float: left;
+    padding: 1px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+.web {
+    float: left;
+    width: 190px;
+    padding: 1px;
+    font-size: 20px;
+  }
+.chundnho{
+    float: left;
+    padding: 1px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.anhle{
+    float: right;
+    width: 500px;
+    height: auto;
+}
+.anhleto{
+    width:400px
+}
