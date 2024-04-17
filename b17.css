@@ -1,0 +1,149 @@
+body {
+    margin-left: 40px;
+    margin-right: 40px;
+    max-width: 1400px;
+    min-width: 1400px;
+}
+.div1 {
+    background-color: #000000;
+    padding: 10px;
+    text-align: center;
+    border-radius: 30px;
+    height: 40px;
+    display: inline-block;
+    overflow: hidden;
+    position: fixed;
+    width: 1400px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.div1 a:hover{
+text-decoration: underline;
+}
+.div1 img{
+    margin-left: 55px;
+}
+.div1 a {
+    color: #fff;
+    text-decoration: none;
+    padding: 55px;
+    font-size: 15px;
+    text-align: center;
+}
+.anhto1{
+    float: right;
+    margin-top: 30px;
+    margin-top: 10px;
+}
+.chuto{
+    margin-left: 50px;
+    width: 650px;
+    color: rgb(0, 0, 0);
+}
+.chuto h1{
+    font-size: 100px;
+    color: #000000;
+}
+h2{
+    font-size: 53px;
+}
+h4{
+    text-align: justify;
+}
+
+.purchase{
+    font-family: Bahnschrift;
+    margin-left: 50px;
+    background-color: rgb(248,143,158);
+    color: white;
+    height: 50px;
+    max-width: 140px;
+    border-radius: 30px;
+    padding: 15px 50px;
+    text-decoration: none;
+}
+.readmore{
+    text-decoration: none;
+    font-family: Bahnschrift;
+    margin-left: 50px;
+    color: rgb(0, 0, 0);
+    height: 50px;
+    max-width: 140px;
+    border-radius: 30px;
+    padding: 15px 50px;
+}
+.purchase:hover{
+    background-color: #000000;
+    color: white;
+}
+.readmore:hover{
+    background-color: #000000;
+    color: rgb(255, 255, 255) ;
+}
+.div2{
+    max-width: 2000px;
+    background-image: url(Group\ 2.png);
+    padding: 20px;
+    background-repeat: no-repeat;
+    max-height: 180px;
+}
+.div2 h1 {
+    color: white;
+    text-align: center;
+    font-size: 45px;
+    font-family: SFU GillSans;
+}
+.div2 p{
+    font-family: DFVN Beauty Reflections;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+.div3{
+    max-width: 2000px;
+    height: 600px;
+    padding: 20px;
+    text-align: center;
+}
+.div3 h1{
+font-family: Bernard MT Condensed;
+font-size: 40px;
+}
+.div3 p{
+    font-family: Bodoni Bk BT;
+    font-size: 20px;
+}
+.cach{
+    max-width: 2000px;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    
+}
+.hong{
+    background-color: rgb(250,209,203);
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
+.cua{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    padding: 0px 100px;
+}
+.nut{
+    background-color: rgb(163, 170, 104);
+    border-radius: 50px;
+    color: rgb(68, 68, 68);
+    font-size: 18px;
+    font-family: Bahnschrift;
+    max-width: 100px;
+    text-align: center;
+    padding: 10px 15px; 
+    text-decoration: none;
+}
+.nut:hover{
+    background-color: rgb(111, 116, 65);
+    color: white;
+}
